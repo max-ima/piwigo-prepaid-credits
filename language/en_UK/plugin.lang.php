@@ -45,4 +45,5 @@ $lang['%u credits bought on %s (%s %s)'] = '%u credits bought on %s (%s %s)';
 $lang['%u credits spent for %s (size %s)'] = '%u credits spent for %s (size %s)';
 $lang['open it'] = 'open it';
 $lang['%s for %d credits'] = '%s for %d credits';
+$lang['Invalid email address for PayPal account'] = 'Invalid email address for PayPal account'
 ?>

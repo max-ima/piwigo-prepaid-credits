@@ -48,3 +48,4 @@ $lang['minute(s)'] = 'minuta(e';
 $lang['Download available for'] = 'Prenos je na voljo za';
 $lang['credit(s) per photo'] = 'kredit(a) na sliko';
 $lang['Default cost'] = 'Privzeta cena';
+$lang['%s for %d credits'] = '%s za %d kredit';
